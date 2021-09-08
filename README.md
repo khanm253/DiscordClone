@@ -1,3 +1,10 @@
+# Discord Clone
+
+### Visual and Functional replica of the Discord Chat application.
+### Designed and implemented text channels, real-time chatting functionality and  dynamic user-profiles secured using Google authentication.
+
+### Technologies: React | Firebase Firestore | Material UI | CSS | Visual Studio Code 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
